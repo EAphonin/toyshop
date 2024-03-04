@@ -1,0 +1,10 @@
+Toy{id=3, name='кукла'}
+Toy{id=1, name='конструктор'}
+Toy{id=3, name='кукла'}
+Toy{id=2, name='робот'}
+Toy{id=3, name='кукла'}
+Toy{id=3, name='кукла'}
+Toy{id=1, name='конструктор'}
+Toy{id=3, name='кукла'}
+Toy{id=3, name='кукла'}
+Toy{id=2, name='робот'}
